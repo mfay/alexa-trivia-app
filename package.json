@@ -1,0 +1,24 @@
+{
+  "name": "trivia-app",
+  "version": "1.0.0",
+  "description": "Alexa skill triva application.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mfay/alexa-trivia-app.git"
+  },
+  "keywords": [
+    "Alexa",
+    "node",
+    "trivia"
+  ],
+  "author": "Mark Fay",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mfay/alexa-trivia-app/issues"
+  },
+  "homepage": "https://github.com/mfay/alexa-trivia-app#readme"
+}
